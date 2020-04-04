@@ -6,4 +6,3 @@ hello my name is Ella.
 kd
 pizza
 taco
-( vist our wedsite )
